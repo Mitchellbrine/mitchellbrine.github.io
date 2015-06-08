@@ -1672,7 +1672,7 @@ meta.foundation-mq-topbar {
     background: #005500;
     color: white; }
   .no-js .top-bar-section ul li:active > a {
-    background: #0074AC;
+    background: #e7e7e7;
     color: white; }
   .no-js .top-bar-section .has-dropdown:hover > .dropdown {
     display: block;
