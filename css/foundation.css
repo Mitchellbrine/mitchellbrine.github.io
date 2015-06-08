@@ -1443,7 +1443,7 @@ meta.foundation-mq-topbar {
         .top-bar-section ul li > button.alert:hover, .top-bar-section ul li > button.alert:focus {
           color: white; }
     .top-bar-section ul li:hover:not(.has-form) > a {
-      background-color: #555555;
+      background-color: #99FF99;
       background: #272727;
       color: white; }
     .top-bar-section ul li.active > a {
@@ -2774,7 +2774,7 @@ blockquote {
       content: "\2014 \0020"; }
     blockquote cite a,
     blockquote cite a:visited {
-      color: #555555; }
+      color: #99FF99; }
 
 blockquote,
 blockquote p {
