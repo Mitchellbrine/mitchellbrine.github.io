@@ -3268,7 +3268,7 @@ dialog.full, .reveal-modal.full {
   font-weight: bold;
   color: #00A000; }
   .has-tip:hover, .has-tip:focus {
-    border-bottom: dotted 1px #003f54;
+    border-bottom: dotted 1px #e7e7e7;
     color: #e7e7e7; }
   .has-tip.tip-left, .has-tip.tip-right {
     float: none !important; }
@@ -3306,7 +3306,7 @@ dialog.full, .reveal-modal.full {
       left: 2rem; }
   .tooltip.opened {
     color: #e7e7e7 !important;
-    border-bottom: dotted 1px #003f54 !important; }
+    border-bottom: dotted 1px #e7e7e7 !important; }
 
 .tap-to-close {
   display: block;
