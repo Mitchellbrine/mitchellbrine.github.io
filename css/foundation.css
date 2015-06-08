@@ -1336,7 +1336,7 @@ meta.foundation-mq-topbar {
     height: auto;
     background: transparent; }
     .top-bar.expanded .title-area {
-      background: #333333; }
+      background: #119911; }
     .top-bar.expanded .toggle-topbar a {
       color: #888888; }
       .top-bar.expanded .toggle-topbar a::after {
@@ -1567,7 +1567,7 @@ meta.foundation-mq-topbar {
         .top-bar-section ul li .js-generated {
           display: none; }
     .top-bar-section li.hover > a:not(.button) {
-      background-color: #555555;
+      background-color: #119911;
       background: #272727;
       color: white; }
     .top-bar-section li:not(.has-form) a:not(.button) {
@@ -1575,7 +1575,7 @@ meta.foundation-mq-topbar {
       line-height: 45px;
       background: #333333; }
       .top-bar-section li:not(.has-form) a:not(.button):hover {
-        background-color: #555555;
+        background-color: #119911;
         background: #272727; }
     .top-bar-section li.active:not(.has-form) a:not(.button) {
       padding: 0 15px;
@@ -1637,7 +1637,7 @@ meta.foundation-mq-topbar {
         background: #333333; }
       .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
         color: white;
-        background-color: #555555;
+        background-color: #119911;
         background: #272727; }
       .top-bar-section .dropdown li label {
         white-space: nowrap;
@@ -1668,7 +1668,7 @@ meta.foundation-mq-topbar {
         left: 100%; }
 
   .no-js .top-bar-section ul li:hover > a {
-    background-color: #555555;
+    background-color: #119911;
     background: #272727;
     color: white; }
   .no-js .top-bar-section ul li:active > a {
@@ -2769,7 +2769,7 @@ blockquote {
   blockquote cite {
     display: block;
     font-size: 0.8125rem;
-    color: #555555; }
+    color: #119911; }
     blockquote cite:before {
       content: "\2014 \0020"; }
     blockquote cite a,
@@ -3660,7 +3660,7 @@ dialog.full, .reveal-modal.full {
 .joyride-timer-indicator-wrap {
   width: 50px;
   height: 3px;
-  border: solid 1px #555555;
+  border: solid 1px #119911;
   position: absolute;
   right: 1.0625rem;
   bottom: 1rem; }
@@ -4372,7 +4372,7 @@ ul.off-canvas-list {
     .f-dropdown li a {
       display: block;
       padding: 0.5rem;
-      color: #555555; }
+      color: #119911; }
   .f-dropdown.content {
     position: absolute;
     left: -9999px;
