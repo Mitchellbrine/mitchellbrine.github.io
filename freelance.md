@@ -63,6 +63,8 @@ Most/any ideas are accepted and if you would like a mod to be created or worked 
 
 - - -
 
+<iframe src="https://docs.google.com/forms/d/1vo_ILYhAce6l4QFhdmUAsFl_iw15mtUytjblcA0cHvQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 I hope you can find satisfaction in working with me and making your mod become a reality!
 
 \- Mitchellbrine
