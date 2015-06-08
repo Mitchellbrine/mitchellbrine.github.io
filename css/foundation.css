@@ -1338,9 +1338,9 @@ meta.foundation-mq-topbar {
     .top-bar.expanded .title-area {
       background: #119911; }
     .top-bar.expanded .toggle-topbar a {
-      color: #888888; }
+      color: #00E100; }
       .top-bar.expanded .toggle-topbar a::after {
-        box-shadow: 0 10px 0 1px #888888, 0 16px 0 1px #888888, 0 22px 0 1px #888888; }
+        box-shadow: 0 10px 0 1px #00E100, 0 16px 0 1px #00E100, 0 22px 0 1px #00E100; }
 
 .top-bar-section {
   left: 0;
@@ -1376,11 +1376,11 @@ meta.foundation-mq-topbar {
         font-size: 0.8125rem;
         padding-right: 15px;
         padding-left: 15px;
-        background-color: #008cba;
-        border-color: #007095;
+        background-color: #00E100;
+        border-color: #00E100;
         color: white; }
         .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
-          background-color: #007095; }
+          background-color: #00E100; }
         .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
           color: white; }
       .top-bar-section ul li > a.button.secondary {
