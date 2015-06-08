@@ -1581,7 +1581,7 @@ meta.foundation-mq-topbar {
       padding: 0 15px;
       line-height: 45px;
       color: white;
-      background: #e7e7e7; }
+      background: #0000EE; }
       .top-bar-section li.active:not(.has-form) a:not(.button):hover {
         background: #0078a0;
         color: white; }
@@ -1672,7 +1672,7 @@ meta.foundation-mq-topbar {
     background: #005500;
     color: white; }
   .no-js .top-bar-section ul li:active > a {
-    background: #e7e7e7;
+    background: #0000EE;
     color: white; }
   .no-js .top-bar-section .has-dropdown:hover > .dropdown {
     display: block;
@@ -1741,7 +1741,7 @@ meta.foundation-mq-topbar {
   padding: 0.875rem 1.5rem 0.875rem 0.875rem;
   font-size: 0.8125rem;
   transition: opacity 300ms ease-out;
-  background-color: #e7e7e7;
+  background-color: #0000EE;
   border-color: #0078a0;
   color: white; }
   .alert-box .close {
