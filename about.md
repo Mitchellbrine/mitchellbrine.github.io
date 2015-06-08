@@ -5,7 +5,10 @@ header-image: index_back.png
 layout: single
 ---
 
- began playing Minecraft in version 1.1. I've seen it evolved and in mid-late 2012, I began modding. It all began with an accident and then I learned things in ModLoader and would make prototype mods that really weren't anything special and worked by accident.
+My name is Mitchellbrine. I am a modder of Minecraft, the author of numerous mods, and a tutorial creator/member of the NOVA community.
+
+
+I began playing Minecraft in version 1.1. I've seen it evolved and in mid-late 2012, I began modding. It all began with an accident and then I learned things in ModLoader and would make prototype mods that really weren't anything special and worked by accident.
 
 Later, in Minecraft 1.5.2, I discovered Minecraft Forge and began updating my first mod (that was hosted on MediaFire, free of adf.ly links).
 
@@ -31,4 +34,12 @@ Then, I created a mod that allowed people to play Cards Against Humanity in Mine
 
 Then, we reach DiseaseCraft 2. DiseaseCraft 2 was a revamp of all the features of the original DiseaseCraft, but making it customizable and configureable to all people. It helped people understand how to add diseases and added a lot more support for modpack and modded map makers.
 
-All the mods are available on [CurseForge](http://minecraft.curseforge.com/members/Mitchellbrine/projects)
+All the mods are available on [CurseForge](http://minecraft.curseforge.com/members/Mitchellbrine/projects).
+
+## Why the name Mitchell*brine*? ##
+
+Back in the mid-late 2012, my friend THEAWSOMETY (now known as Themosity) and I decided to create a Bukkit minigame server called "The Herobrine Games." We came up with all the concept and thought it was an ingenious idea.
+
+We never went through with our dastardly plan, but I did keep a certain part of it. During this time, I began modding Minecraft and I created the Hardcore Nether mod. This mod was what started me off. Ty bet me that I couldn't reach 500 downloads on my mods and maps (I did some pretty crappy ones at the time). He said if I reached those "astronomical" number of downloads, he would buy me my own Minecraft account (we shared a couple ones at the time). Surprise! I won the bet and soon, I got to make my Minecraft account.
+
+I wanted the name to reflect "The Herobrine Games," so I wanted a name so I could be known for that. I came up with many names, one I remember being my second choice was "SonOfHerobrine". Ultimately, it struck me. I was going to be Mitchellbrine. Mitchell is my first name and the interest in Herobrine. It fit the username specifications and I loved it.
