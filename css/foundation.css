@@ -1956,7 +1956,7 @@ meta.foundation-mq-topbar {
       .panel.callout h1.subheader, .panel.callout h2.subheader, .panel.callout h3.subheader, .panel.callout h4.subheader, .panel.callout h5.subheader, .panel.callout h6.subheader {
         line-height: 1.4; }
     .panel.callout a:not(.button) {
-      color: #e7e7e7; }
+      color: #0000EE; }
   .panel.radius {
     border-radius: 3px; }
 
@@ -2599,7 +2599,7 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #e7e7e7;
+  color: #0000EE;
   text-decoration: none;
   line-height: inherit; }
   a:hover, a:focus {
