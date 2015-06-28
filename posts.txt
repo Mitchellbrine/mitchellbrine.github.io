@@ -1,9 +1,3 @@
----
-title: Updates
-subtitle: The ramblings of Mitchellbrine
-layout: single
----
-
 ## Hello World! ##
 
 Hello world, Mitchellbrine here! And welcome to the updates for my mods!  
